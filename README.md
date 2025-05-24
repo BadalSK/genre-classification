@@ -7,3 +7,4 @@ This project classifies movie genres based on movie descriptions. It supports mu
 - `train_data.txt` → `Title ::: Genre(s) ::: Description`
 - `test_data.txt` → `Title ::: Description`
 
+DATASET:- https://www.kaggle.com/code/dohachbihi/movie-genre-classification
